@@ -7,4 +7,5 @@
  [2-20 bootstrap - 编程英语](2-20) 
  [2-21 bootstrap - 编程英语](2-21) 
  [2-22 bootstrap - 编程英语](2-22)
- [2-23 bootstrap - alert component](2-23) 
+ [2-23 bootstrap - alert component](2-23)
+ [2-24 bootstrap - badge](2-24)] 
