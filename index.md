@@ -19,4 +19,6 @@
 
  [2-25 bootstrap - button](2-25)
 
- [2-26 bootstrap - calendar](2-26) 
+ [2-26 bootstrap - calendar](2-26)
+
+ [2-27 bootstrap - card](2-27) 
