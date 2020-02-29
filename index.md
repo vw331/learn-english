@@ -23,4 +23,6 @@
 
  [2-27 bootstrap - card](2-27)
 
- [2-28 bootstrap -carousel](2-28) 
+ [2-28 bootstrap -carousel](2-28)
+
+ [2-28 bootstrap -collapse](2-29) 
