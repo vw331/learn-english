@@ -25,4 +25,7 @@
 
  [2-28 bootstrap -carousel](2-28)
 
- [2-29 bootstrap -collapse](2-29) 
+ [2-29 bootstrap -collapse](2-29)
+
+ [3-1 bootstrap - form](3-1)
+ 
