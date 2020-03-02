@@ -28,4 +28,5 @@
  [2-29 bootstrap -collapse](2-29)
 
  [3-1 bootstrap - form](3-1)
- 
+
+ [3-2 bootstra[ - checkbox](3-2) 
