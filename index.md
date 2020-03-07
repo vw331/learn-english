@@ -33,4 +33,8 @@
 
  [3-3 bootstrap - datepicker](3-3)
 
- [3-4 bootstrap -form file](3-4) 
+ [3-4 bootstrap -form file](3-4)
+
+ [3-5 bootstrap - form](3-5)
+
+ [3-7 bootstrap - form](3-7)
