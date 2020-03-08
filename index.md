@@ -38,3 +38,6 @@
  [3-5 bootstrap - form](3-5)
 
  [3-7 bootstrap - form](3-7)
+
+ [3-8 bootstrap - input](3-8)
+
